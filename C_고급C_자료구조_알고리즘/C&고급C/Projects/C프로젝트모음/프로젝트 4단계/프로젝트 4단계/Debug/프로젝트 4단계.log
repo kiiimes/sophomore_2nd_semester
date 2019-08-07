@@ -1,0 +1,48 @@
+﻿  delete.c
+\\Mac\Home\Desktop\C&고급C\Visual Studio 2010\Projects\프로젝트 4단계\프로젝트 4단계\delete.c(18,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  insert.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+\\Mac\Home\Desktop\C&고급C\Visual Studio 2010\Projects\프로젝트 4단계\프로젝트 4단계\insert.c(9,1): warning C4305:  '초기화 중': 'int'에서 'char'(으)로 잘립니다.
+\\Mac\Home\Desktop\C&고급C\Visual Studio 2010\Projects\프로젝트 4단계\프로젝트 4단계\insert.c(17,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+\\Mac\Home\Desktop\C&고급C\Visual Studio 2010\Projects\프로젝트 4단계\프로젝트 4단계\insert.c(19,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  'strcpy' 선언을 참조하십시오.
+\\Mac\Home\Desktop\C&고급C\Visual Studio 2010\Projects\프로젝트 4단계\프로젝트 4단계\insert.c(21,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+\\Mac\Home\Desktop\C&고급C\Visual Studio 2010\Projects\프로젝트 4단계\프로젝트 4단계\insert.c(23,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  'strcpy' 선언을 참조하십시오.
+\\Mac\Home\Desktop\C&고급C\Visual Studio 2010\Projects\프로젝트 4단계\프로젝트 4단계\insert.c(25,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+\\Mac\Home\Desktop\C&고급C\Visual Studio 2010\Projects\프로젝트 4단계\프로젝트 4단계\insert.c(27,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  'strcpy' 선언을 참조하십시오.
+\\Mac\Home\Desktop\C&고급C\Visual Studio 2010\Projects\프로젝트 4단계\프로젝트 4단계\main.c(14,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+\\Mac\Home\Desktop\C&고급C\Visual Studio 2010\Projects\프로젝트 4단계\프로젝트 4단계\main.c(20,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  other.c
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+\\Mac\Home\Desktop\C&고급C\Visual Studio 2010\Projects\프로젝트 4단계\프로젝트 4단계\other.c(23,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+\\Mac\Home\Desktop\C&고급C\Visual Studio 2010\Projects\프로젝트 4단계\프로젝트 4단계\other.c(46,1): warning C4047:  '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+\\Mac\Home\Desktop\C&고급C\Visual Studio 2010\Projects\프로젝트 4단계\프로젝트 4단계\other.c(49,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  'fopen' 선언을 참조하십시오.
+\\Mac\Home\Desktop\C&고급C\Visual Studio 2010\Projects\프로젝트 4단계\프로젝트 4단계\other.c(53,1): warning C4996:  'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1197): message :  'fscanf' 선언을 참조하십시오.
+\\Mac\Home\Desktop\C&고급C\Visual Studio 2010\Projects\프로젝트 4단계\프로젝트 4단계\other.c(57,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  'strcpy' 선언을 참조하십시오.
+\\Mac\Home\Desktop\C&고급C\Visual Studio 2010\Projects\프로젝트 4단계\프로젝트 4단계\other.c(59,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  'strcpy' 선언을 참조하십시오.
+\\Mac\Home\Desktop\C&고급C\Visual Studio 2010\Projects\프로젝트 4단계\프로젝트 4단계\other.c(61,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(133): message :  'strcpy' 선언을 참조하십시오.
+\\Mac\Home\Desktop\C&고급C\Visual Studio 2010\Projects\프로젝트 4단계\프로젝트 4단계\other.c(104,15): warning C4047:  '=': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+\\Mac\Home\Desktop\C&고급C\Visual Studio 2010\Projects\프로젝트 4단계\프로젝트 4단계\other.c(124,13): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+\\Mac\Home\Desktop\C&고급C\Visual Studio 2010\Projects\프로젝트 4단계\프로젝트 4단계\other.c(100,1): warning C4996:  'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(1274): message :  'scanf' 선언을 참조하십시오.
+\\Mac\Home\Desktop\C&고급C\Visual Studio 2010\Projects\프로젝트 4단계\프로젝트 4단계\other.c(115,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(90): message :  'strcat' 선언을 참조하십시오.
+\\Mac\Home\Desktop\C&고급C\Visual Studio 2010\Projects\프로젝트 4단계\프로젝트 4단계\other.c(121,1): warning C4996:  'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\string.h(90): message :  'strcat' 선언을 참조하십시오.
+\\Mac\Home\Desktop\C&고급C\Visual Studio 2010\Projects\프로젝트 4단계\프로젝트 4단계\other.c(148,1): warning C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): message :  'fopen' 선언을 참조하십시오.
+  프로젝트 4단계.vcxproj -> \\Mac\Home\Desktop\C&고급C\Visual Studio 2010\Projects\프로젝트 4단계\Debug\프로젝트 4단계.exe

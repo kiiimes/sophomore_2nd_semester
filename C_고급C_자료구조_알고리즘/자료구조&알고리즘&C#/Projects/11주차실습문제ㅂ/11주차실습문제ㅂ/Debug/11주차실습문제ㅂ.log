@@ -1,0 +1,7 @@
+﻿  문제2.c
+c:\users\은숙\documents\visual studio 2015\projects\11주차실습문제ㅂ\11주차실습문제ㅂ\문제2.c(31): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\은숙\documents\visual studio 2015\projects\11주차실습문제ㅂ\11주차실습문제ㅂ\문제2.c(36): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  11주차실습문제ㅂ.vcxproj -> c:\users\은숙\documents\visual studio 2015\Projects\11주차실습문제ㅂ\Debug\11주차실습문제ㅂ.exe
+  11주차실습문제ㅂ.vcxproj -> c:\users\은숙\documents\visual studio 2015\Projects\11주차실습문제ㅂ\Debug\11주차실습문제ㅂ.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  advanced.cpp
+c:\users\은숙\documents\visual studio 2015\projects\컴구과제\컴구과제\advanced.cpp(270): warning C4715: 'ALU_Control_Signal': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\은숙\documents\visual studio 2015\projects\컴구과제\컴구과제\advanced.cpp(345): warning C4715: 'Mux': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴구과제.vcxproj -> C:\Users\은숙\documents\visual studio 2015\Projects\컴구과제\Debug\컴구과제.exe
+  컴구과제.vcxproj -> C:\Users\은숙\documents\visual studio 2015\Projects\컴구과제\Debug\컴구과제.pdb (Full PDB)

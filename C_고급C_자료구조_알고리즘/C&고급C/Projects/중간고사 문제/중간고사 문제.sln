@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "중간고사 문제", "중간고사 문제\중간고사 문제.vcxproj", "{72BFA750-EAE4-45EB-A845-8159E99E7ABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72BFA750-EAE4-45EB-A845-8159E99E7ABF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{72BFA750-EAE4-45EB-A845-8159E99E7ABF}.Debug|Win32.Build.0 = Debug|Win32
+		{72BFA750-EAE4-45EB-A845-8159E99E7ABF}.Release|Win32.ActiveCfg = Release|Win32
+		{72BFA750-EAE4-45EB-A845-8159E99E7ABF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

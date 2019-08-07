@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "경시대회 공부", "경시대회 공부\경시대회 공부.vcxproj", "{F6F9437F-1E12-4218-9200-014A6760F667}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6F9437F-1E12-4218-9200-014A6760F667}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F6F9437F-1E12-4218-9200-014A6760F667}.Debug|Win32.Build.0 = Debug|Win32
+		{F6F9437F-1E12-4218-9200-014A6760F667}.Release|Win32.ActiveCfg = Release|Win32
+		{F6F9437F-1E12-4218-9200-014A6760F667}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

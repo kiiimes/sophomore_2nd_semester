@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "테트리스 만들기", "테트리스 만들기\테트리스 만들기.vcxproj", "{B8276F34-FF1B-4438-BE46-B4BEFFFF171B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8276F34-FF1B-4438-BE46-B4BEFFFF171B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B8276F34-FF1B-4438-BE46-B4BEFFFF171B}.Debug|Win32.Build.0 = Debug|Win32
+		{B8276F34-FF1B-4438-BE46-B4BEFFFF171B}.Release|Win32.ActiveCfg = Release|Win32
+		{B8276F34-FF1B-4438-BE46-B4BEFFFF171B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+﻿  문제2.c
+c:\users\은숙\documents\visual studio 2015\projects\집합 공부\집합 공부\문제2.c(136): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\은숙\documents\visual studio 2015\projects\집합 공부\집합 공부\문제2.c(138): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\은숙\documents\visual studio 2015\projects\집합 공부\집합 공부\문제2.c(141): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\은숙\documents\visual studio 2015\projects\집합 공부\집합 공부\문제2.c(143): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  집합 공부.vcxproj -> c:\users\은숙\documents\visual studio 2015\Projects\집합 공부\Debug\집합 공부.exe
+  집합 공부.vcxproj -> c:\users\은숙\documents\visual studio 2015\Projects\집합 공부\Debug\집합 공부.pdb (Full PDB)

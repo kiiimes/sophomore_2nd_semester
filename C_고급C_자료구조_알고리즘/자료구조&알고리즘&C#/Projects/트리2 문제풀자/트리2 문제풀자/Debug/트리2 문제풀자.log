@@ -1,0 +1,21 @@
+﻿  트리2문제1.c
+c:\users\은숙\documents\visual studio 2015\projects\트리2 문제풀자\트리2 문제풀자\트리2문제1.c(54): warning C4033: 'insert_node'은(는) 값을 반환해야 합니다.
+c:\users\은숙\documents\visual studio 2015\projects\트리2 문제풀자\트리2 문제풀자\트리2문제1.c(71): warning C4033: 'insert_node'은(는) 값을 반환해야 합니다.
+c:\users\은숙\documents\visual studio 2015\projects\트리2 문제풀자\트리2 문제풀자\트리2문제1.c(93): warning C4033: 'freedom'은(는) 값을 반환해야 합니다.
+c:\users\은숙\documents\visual studio 2015\projects\트리2 문제풀자\트리2 문제풀자\트리2문제1.c(97): warning C4033: 'freedom'은(는) 값을 반환해야 합니다.
+c:\users\은숙\documents\visual studio 2015\projects\트리2 문제풀자\트리2 문제풀자\트리2문제1.c(103): warning C4033: 'freedom'은(는) 값을 반환해야 합니다.
+c:\users\은숙\documents\visual studio 2015\projects\트리2 문제풀자\트리2 문제풀자\트리2문제1.c(124): warning C4047: '함수': 'char *'의 간접 참조 수준이 'char (*)[101]'과(와) 다릅니다.
+c:\users\은숙\documents\visual studio 2015\projects\트리2 문제풀자\트리2 문제풀자\트리2문제1.c(124): warning C4024: 'search_print': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\users\은숙\documents\visual studio 2015\projects\트리2 문제풀자\트리2 문제풀자\트리2문제1.c(112): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\은숙\documents\visual studio 2015\projects\트리2 문제풀자\트리2 문제풀자\트리2문제1.c(115): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\은숙\documents\visual studio 2015\projects\트리2 문제풀자\트리2 문제풀자\트리2문제1.c(119): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\은숙\documents\visual studio 2015\projects\트리2 문제풀자\트리2 문제풀자\트리2문제1.c(123): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\은숙\documents\visual studio 2015\projects\트리2 문제풀자\트리2 문제풀자\트리2문제1.c(45): warning C4715: 'search': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\은숙\documents\visual studio 2015\projects\트리2 문제풀자\트리2 문제풀자\트리2문제1.c(72): warning C4716: 'insert_node': 값을 반환해야 합니다.
+c:\users\은숙\documents\visual studio 2015\projects\트리2 문제풀자\트리2 문제풀자\트리2문제1.c(105): warning C4716: 'freedom': 값을 반환해야 합니다.
+  트리2 문제풀자.vcxproj -> c:\users\은숙\documents\visual studio 2015\Projects\트리2 문제풀자\Debug\트리2 문제풀자.exe
+  트리2 문제풀자.vcxproj -> c:\users\은숙\documents\visual studio 2015\Projects\트리2 문제풀자\Debug\트리2 문제풀자.pdb (Full PDB)

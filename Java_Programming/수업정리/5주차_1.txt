@@ -1,0 +1,75 @@
+이름은 같은데 파라미터의 정보가 다른 경우를 =>메소드 오버로딩
+메소드의 이름은 똑같고 매개변수가 다른 경우임
+메소드 앞에 반환형은 의미가 없음
+
+this 레퍼런스 현재 실행되는 메소드가 속한 객체 
+클래스의 이름과 같은 메소드는 생성자 
+보통 this를 쓰는거면 class의 데이터를 this로 한다. !!!!
+
+instance data가 local data보다 힘이 강함
+
+컨테이너는 heavy weight 컨테이너와 lightweight 컨테이너라고함
+헤비컨테이너는 운영체제가 관리 
+경량컨테이너는 사용자가 관리 
+ 
+JFrame 클래스를 사용함
+
+GUI 컴포넌트는 두종류가 있음
+1. container
+2. component
+
+컨테이너는 2가지
+1. heavy weight container =>frame과 applet 우리 이거 씀
+2. light weight container=> pannel 이라는거 쓸거임 
+
+처음 살펴볼 component는 label 이라는거~!!!!
+
+한줄짜리 텍스트나 이미지 표시하기 위한거가 label이라는거
+swing component씀 
+두줄출력하고 싶으면 두번쓰면 됨
+
+package insaeng;
+import java.awt.*;
+import javax.swing.*;
+
+public class Hello {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//JFrame 셍성
+		JFrame frame=new JFrame("TEST GUI");
+		//이거를 안쓰면 윈도우에서 제대로 종료가 안됨, 정상종료 되면 terminated라는 말이 뜸 
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);		
+		
+		//사용자 정의 GUI임 
+		JPanel primary=new JPanel();
+		primary.setPreferredSize(new Dimension(400,400));
+		primary.setBackground(Color.gray);
+		
+		
+		//중량컨테이너에 add하기전에 하는거, 중량 컨테이너에 붙이면 됨 
+		//Panel에 add할때는 그냥 add만 쓰면 되고 중량 컨테이너에 add할때는 getContentPane()을 붙여줘야됨
+		frame.getContentPane().add(primary);
+		frame.pack();//frame에 add되는 컴포넌트를 정리하는거 
+		//화면에띄우기 위해서 setVisable을 씀
+		//heavy weight container
+		frame.setVisible(true);
+		
+	}
+
+}
+
+container는 레이아웃매니저가 있음
+레이아웃매니저는 라벨의 위치를 배치함 
+디폴트는 플로우레이아웃이라는 것을 씀=>위에서부터 아래로 쭉쭉 가운데에 배치
+add한 순서와 상관없이 내맘대로 배치하고 싶으면 레이아웃이미지를 없애는걸 씀
+=>그게 바로 setLayout(null);
+
+component에서는 레이아웃 설정 할 수 없음 
+레이아웃매니저를 없애면 위치와 크기를 설정해줘야됨
+=>setBounds라는걸 씀 (x,y,width,height)가 매개변수로 들어감
+레이아웃없애는거는 container에서 정하고 setBounds는 컴포넌트에서 설정해줌
+
+글씨 ... 으로 나오면 width를 늘려주거나 글씨크기를 줄여줌
+
+

@@ -1,0 +1,26 @@
+클래스를 설계한는거는 데이터와 method를 정의하는거 data는
+instance data라고 생각하면 됨
+die 이거 주사위 그거임
+data
+주사위 값 :  int faceValue
+method 
+주사위 굴리는 메소드 :  int roll() //숫자 값을 리턴해줘도 되고 안해줘도 됨
+주사위를 굴리고 그 값을 반환
+
+uml 은 해당 메소드랑 데이터를 그림으로 나타난거를 
+말한다. 이거 맞나...? 
+
+Die
+m_nfaceValue : int
+roll() : int 
+// 이런거를 박스 형태로 나타내준다. 
+
+캡슐화의 기본 목적은 데이터 보호
+목적은 2가지 
+1. 데이터 보호 2. 정보 은닉
+
+public, private, protected
+
+protected는 상속받으면 쓸수 있음
+일반적으로 데이터를 보호 할 때는 private으로 하고 method는 public으로 제공
+

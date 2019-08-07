@@ -1,0 +1,4 @@
+﻿  문1.c
+c:\users\은숙\documents\visual studio 2015\projects\웨지감자\웨지감자\문1.c(38): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+  웨지감자.vcxproj -> c:\users\은숙\documents\visual studio 2015\Projects\웨지감자\Debug\웨지감자.exe
+  웨지감자.vcxproj -> c:\users\은숙\documents\visual studio 2015\Projects\웨지감자\Debug\웨지감자.pdb (Full PDB)

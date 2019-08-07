@@ -1,0 +1,7 @@
+﻿  문제2.c
+c:\users\은숙\documents\visual studio 2015\projects\과제2\과제2\문제2.c(71): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+c:\users\은숙\documents\visual studio 2015\projects\과제2\과제2\문제2.c(156): warning C4101: 'tmp' :참조되지 않은 지역 변수입니다.
+c:\users\은숙\documents\visual studio 2015\projects\과제2\과제2\문제2.c(107): warning C4700: 초기화되지 않은 'sav' 지역 변수를 사용했습니다.
+c:\users\은숙\documents\visual studio 2015\projects\과제2\과제2\문제2.c(192): warning C4700: 초기화되지 않은 'sav' 지역 변수를 사용했습니다.
+  과제2.vcxproj -> c:\users\은숙\documents\visual studio 2015\Projects\과제2\Debug\과제2.exe
+  과제2.vcxproj -> c:\users\은숙\documents\visual studio 2015\Projects\과제2\Debug\과제2.pdb (Full PDB)

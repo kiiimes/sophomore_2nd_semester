@@ -1,0 +1,6 @@
+getText 는 문자열로 정보를 넘겨줌
+int 로 바꾸려면 Integer parseInt() 씀
+
+GUI design 뿌잉뿌잉
+
+28페이지 다시 보기

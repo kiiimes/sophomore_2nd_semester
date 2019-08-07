@@ -1,0 +1,62 @@
+faceValue 주사위를 굴리면 나오는 숫자값
+sum 주사위의 수를 누적 
+count 횟수 세는 거
+=> 데이터타입은 int
+
+1. faceValue=1~6사이의 숫자가 나와야됨
+2. sum에 숫자를 누적함
+3. count++;
+4. 반복 while(sum<100)
+5. print(count)
+
+ex)
+출ㄹ력=>
+원래 문을 선택했을때의 확률
+문을 선택한 것을 변경했을 때의 확률
+
+입력=> 없음
+
+그다음 데이터를 정해야된다. 
+
+문을 0,1,2 라고 했을때 
+선택하는 문 =>choiceDoor
+상품있는 문 =>prizeDoor
+사회자가 여는 문 =>revealDoor
+바꾸는문 =>switchDoor
+당첨횟수 세는 거 => choiceCount switchCount
+
+
+데이터타입은 int이면 됨
+
+case1
+
+1. prizeDoor를 선정 =>0~2
+2. choiceDoor를 선정 =>0~2
+3. p==c이면 당첨 choiceCount
+while문 돌리고 
+4. printChoice한다. 
+
+
+case2
+1. prizeDoor를 선정 =>0~2
+2. choiceDoor를 선정 => 0~2
+3. 문을 열음 revealDoor를 선정 => choiceDoor와 prizeDoor
+가 같은 동안 반복을 해줌 
+4. switchDoor는 revealDoor와 choiceDoor와 같으면 아노딤
+
+객체생성 없이 클래스의 이름으로 메소드를호출하는 경우가 있는데
+그런거를 staticmethod 또는 classmethod라고 한다. 
+
+static으로 생성하면 무조건 메모리에 생성ㅇ이 되므로 메모리 
+폭주 생김 ;;;;;;;;;
+
+wrapper클래스와 primitive Type은 서로 호환이 됨 
+Integer.parseInt(str)=> 문자열을 숫자로 바꿔줌
+
+Integer obj;
+int num=42;
+obj=num; 
+=> Autoboxing
+
+반대는 unboxing
+

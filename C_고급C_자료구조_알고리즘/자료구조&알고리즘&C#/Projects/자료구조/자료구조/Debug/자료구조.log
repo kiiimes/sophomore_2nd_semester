@@ -1,0 +1,6 @@
+﻿  트리2.c
+c:\users\은숙\documents\visual studio 2015\projects\자료구조\자료구조\트리2.c(10): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\은숙\documents\visual studio 2015\projects\자료구조\자료구조\트리2.c(50): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  자료구조.vcxproj -> C:\Users\은숙\documents\visual studio 2015\Projects\자료구조\Debug\자료구조.exe
+  자료구조.vcxproj -> C:\Users\은숙\documents\visual studio 2015\Projects\자료구조\Debug\자료구조.pdb (Full PDB)

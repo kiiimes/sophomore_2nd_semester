@@ -1,0 +1,2 @@
+﻿실습문제2.obj : error LNK2019: _number 외부 기호(참조 위치: _matching 함수)에서 확인하지 못했습니다.
+c:\users\은숙\documents\visual studio 2015\Projects\스택 연습\Debug\스택 연습.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

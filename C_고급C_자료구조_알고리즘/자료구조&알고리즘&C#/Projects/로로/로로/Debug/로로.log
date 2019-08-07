@@ -1,0 +1,5 @@
+﻿  문제2(대각선).c
+c:\users\은숙\documents\visual studio 2015\projects\로로\로로\문제2(대각선).c(6): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  로로.vcxproj -> C:\Users\은숙\Documents\Visual Studio 2015\Projects\로로\Debug\로로.exe
+  로로.vcxproj -> C:\Users\은숙\Documents\Visual Studio 2015\Projects\로로\Debug\로로.pdb (Full PDB)

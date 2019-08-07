@@ -1,0 +1,12 @@
+﻿  덱 연습.c
+c:\users\은숙\documents\visual studio 2015\projects\큐우\큐우\덱 연습.c(118): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\은숙\documents\visual studio 2015\projects\큐우\큐우\덱 연습.c(123): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\은숙\documents\visual studio 2015\projects\큐우\큐우\덱 연습.c(125): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\은숙\documents\visual studio 2015\projects\큐우\큐우\덱 연습.c(129): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\은숙\documents\visual studio 2015\projects\큐우\큐우\덱 연습.c(107): warning C4715: 'print': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  큐우.vcxproj -> c:\Users\은숙\documents\visual studio 2015\Projects\큐우\Debug\큐우.exe
+  큐우.vcxproj -> c:\Users\은숙\documents\visual studio 2015\Projects\큐우\Debug\큐우.pdb (Full PDB)

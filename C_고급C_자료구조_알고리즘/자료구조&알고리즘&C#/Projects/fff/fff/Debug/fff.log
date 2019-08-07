@@ -1,0 +1,8 @@
+﻿  문2.c
+c:\users\은숙\documents\visual studio 2015\projects\fff\fff\문2.c(9): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\은숙\documents\visual studio 2015\projects\fff\fff\문2.c(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\은숙\documents\visual studio 2015\projects\fff\fff\문2.c(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  fff.vcxproj -> c:\users\은숙\documents\visual studio 2015\Projects\fff\Debug\fff.exe
+  fff.vcxproj -> c:\users\은숙\documents\visual studio 2015\Projects\fff\Debug\fff.pdb (Full PDB)

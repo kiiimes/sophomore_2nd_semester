@@ -1,0 +1,27 @@
+promotion 연산과정에서 발생하는 데이터 타입 변환
+System.in 표준 입력 장치 
+System.out 표준 출력 장치
+
+Scanner클래스로 scanf처럼 값을 입력받을 수 있따. 
+클래스 안에는 데이터랑 메소드밖에 없음
+
+java.util.Scanner클래스에서 java.util이라는 패키지를 import하고
+그안에 Scanner라는 클래스를 이용하는거임!!
+
+Scanner a= new Scanner(System.in);
+클래스 / 객체 /
+
+* 클래스의 객체는 선언하고 생성해야 사용할 수 있다! *
+
+String nextLine()은 공백도 입력 받을 수 있다.
+
+자바의 좌표계에서 x값이 증가하면 가로로 움직이고 
+y값이증가하면 세로로 움직인다 음수의 경우 화면 밖을 벗어남
+
+rgb는 가산체계칼라라랄라라
+cmy는 감산 체계칼라
+
+AWT에서 제공하는 applet은 그냥 Applet이라고 쓰고 
+Swing에서 제공하는 applet은 JApplet이라고 씀
+
+자바는 메모리해제 다 해줌 ㅎ ㅎ ㅎ ㅎ ㅎ ㅎ 

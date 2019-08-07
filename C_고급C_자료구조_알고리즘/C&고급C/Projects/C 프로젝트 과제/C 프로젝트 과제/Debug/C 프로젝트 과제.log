@@ -1,0 +1,64 @@
+﻿빌드 시작: 2016-11-07 오후 6:45:39
+     1>2 노드의 "C:\Users\은숙\documents\visual studio 2010\Projects\C 프로젝트 과제\C 프로젝트 과제\C 프로젝트 과제.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\C 프로젝트 과제.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "프로젝트 과제.c"
+         프로젝트 과제.c
+     1>c:\users\은숙\documents\visual studio 2010\projects\c 프로젝트 과제\c 프로젝트 과제\프로젝트 과제.c(10): warning C4305: '초기화 중' : 'int'에서 'char'(으)로 잘립니다.
+     1>c:\users\은숙\documents\visual studio 2010\projects\c 프로젝트 과제\c 프로젝트 과제\프로젝트 과제.c(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>c:\users\은숙\documents\visual studio 2010\projects\c 프로젝트 과제\c 프로젝트 과제\프로젝트 과제.c(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>c:\users\은숙\documents\visual studio 2010\projects\c 프로젝트 과제\c 프로젝트 과제\프로젝트 과제.c(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>c:\users\은숙\documents\visual studio 2010\projects\c 프로젝트 과제\c 프로젝트 과제\프로젝트 과제.c(27): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\은숙\documents\visual studio 2010\projects\c 프로젝트 과제\c 프로젝트 과제\프로젝트 과제.c(28): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\은숙\documents\visual studio 2010\projects\c 프로젝트 과제\c 프로젝트 과제\프로젝트 과제.c(29): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\은숙\documents\visual studio 2010\projects\c 프로젝트 과제\c 프로젝트 과제\프로젝트 과제.c(30): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\은숙\documents\visual studio 2010\projects\c 프로젝트 과제\c 프로젝트 과제\프로젝트 과제.c(31): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\은숙\documents\visual studio 2010\projects\c 프로젝트 과제\c 프로젝트 과제\프로젝트 과제.c(32): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\은숙\documents\visual studio 2010\projects\c 프로젝트 과제\c 프로젝트 과제\프로젝트 과제.c(33): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\은숙\documents\visual studio 2010\projects\c 프로젝트 과제\c 프로젝트 과제\프로젝트 과제.c(34): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\은숙\documents\visual studio 2010\projects\c 프로젝트 과제\c 프로젝트 과제\프로젝트 과제.c(35): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\은숙\documents\visual studio 2010\projects\c 프로젝트 과제\c 프로젝트 과제\프로젝트 과제.c(61): warning C4305: '초기화 중' : 'int'에서 'char'(으)로 잘립니다.
+     1>c:\users\은숙\documents\visual studio 2010\projects\c 프로젝트 과제\c 프로젝트 과제\프로젝트 과제.c(69): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>c:\users\은숙\documents\visual studio 2010\projects\c 프로젝트 과제\c 프로젝트 과제\프로젝트 과제.c(73): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\은숙\documents\visual studio 2010\projects\c 프로젝트 과제\c 프로젝트 과제\프로젝트 과제.c(74): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\은숙\documents\visual studio 2010\projects\c 프로젝트 과제\c 프로젝트 과제\프로젝트 과제.c(75): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : 'strcpy' 선언을 참조하십시오.
+     1>c:\users\은숙\documents\visual studio 2010\projects\c 프로젝트 과제\c 프로젝트 과제\프로젝트 과제.c(95): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+     1>c:\users\은숙\documents\visual studio 2010\projects\c 프로젝트 과제\c 프로젝트 과제\프로젝트 과제.c(127): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(304) : 'scanf' 선언을 참조하십시오.
+       ManifestResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\은숙\documents\visual studio 2010\Projects\C 프로젝트 과제\Debug\C 프로젝트 과제.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\C 프로젝트 과제.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\은숙\documents\visual studio 2010\Projects\C 프로젝트 과제\Debug\C 프로젝트 과제.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\은숙\documents\visual studio 2010\Projects\C 프로젝트 과제\Debug\C 프로젝트 과제.lib" /MACHINE:X86 "Debug\C 프로젝트 과제.exe.embed.manifest.res"
+         "Debug\프로젝트 과제.obj"
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\C 프로젝트 과제.exe.embed.manifest" /manifest "Debug\C 프로젝트 과제.exe.intermediate.manifest"
+         모든 출력이 최신 상태입니다.
+       LinkEmbedManifest:
+         모든 출력이 최신 상태입니다.
+         C 프로젝트 과제.vcxproj -> C:\Users\은숙\documents\visual studio 2010\Projects\C 프로젝트 과제\Debug\C 프로젝트 과제.exe
+       FinalizeBuildStatus:
+         "Debug\C 프로젝트 과제.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\C 프로젝트 과제.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\은숙\documents\visual studio 2010\Projects\C 프로젝트 과제\C 프로젝트 과제\C 프로젝트 과제.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:03.01

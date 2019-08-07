@@ -1,0 +1,9 @@
+﻿  문제1.c
+c:\users\은숙\documents\visual studio 2015\projects\스택22\스택22\문제1.c(49): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\은숙\documents\visual studio 2015\projects\스택22\스택22\문제1.c(57): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\은숙\documents\visual studio 2015\projects\스택22\스택22\문제1.c(60): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\은숙\documents\visual studio 2015\projects\스택22\스택22\문제1.c(65): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  스택22.vcxproj -> c:\users\은숙\documents\visual studio 2015\Projects\스택22\Debug\스택22.exe
+  스택22.vcxproj -> c:\users\은숙\documents\visual studio 2015\Projects\스택22\Debug\스택22.pdb (Full PDB)
